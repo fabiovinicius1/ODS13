@@ -6,7 +6,7 @@ A **ODS** escolhida foi "Ação contra a mudança global do clima". É de conhec
 
 ## Proposta
 
-Usaremos um aplicativo mobile para educar os usuários para que os mesmos se conscientizem de reciclarem seus lixo domésticos. O sistema é alimentado pelos próprios usuários, os quais registram (com fotos e descrição) pontos de coleta pela cidade especificando o tipo de resíduo coletado para cada um deles. Na interface do aplicativo será possível ver pontos de coleta próximos e filtrar de acordo com o que o usuário deseja descartar.
+Faremos um aplicativo que possibilite a visualização dos pontos de coleta existentes na cidade. Na interface do aplicativo será possível ver pontos de coleta próximos e filtrar de acordo com o que o usuário deseja descartar. O sistema é alimentado pelos usuários, os quais registram (com fotos e descrição) pontos de coleta pela cidade especificando o tipo de resíduo coletado para cada um deles. Além disso, o aplicativo possuiria uma sessão que serviria para educar sobre a separação e reciclagem do lixo.
 
 ## Equipe
 
